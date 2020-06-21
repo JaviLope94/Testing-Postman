@@ -169,3 +169,7 @@ pm.test('schema is valid', function () {
 ## Mostrar newman
 
 newman run -e dev.postman_environment.json curso-testing.postman_collection.json
+
+## Comandos pm 
+
+https://learning.postman.com/docs/postman/scripts/postman-sandbox-api-reference/
